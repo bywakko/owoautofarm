@@ -1,0 +1,4 @@
+discord
+intents
+asyncio
+colorama
